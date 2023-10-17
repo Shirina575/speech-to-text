@@ -2,3 +2,5 @@ SpeechRecognition==3.10.0
 vosk==0.3.45
 PyAudio==0.2.13
 sounddevice
+amazon-transcribe==0.6.2
+aiofile==3.8.8

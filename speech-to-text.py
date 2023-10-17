@@ -1,5 +1,4 @@
 # NOTE: this example requires PyAudio because it uses the Microphone class
-
 from vosk import Model, KaldiRecognizer
 import pyaudio
 import json

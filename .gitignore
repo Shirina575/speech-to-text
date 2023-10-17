@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 vosk-model-small-en-us-0.15.zip
+.env
 .Python
 build/
 develop-eggs/
