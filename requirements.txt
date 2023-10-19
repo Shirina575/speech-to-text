@@ -5,3 +5,6 @@ sounddevice
 amazon-transcribe==0.6.2
 aiofile==3.8.8
 boto3==1.28.64
+openai-whisper==20230918
+numpy==1.26.1
+soundfile==0.12.1
