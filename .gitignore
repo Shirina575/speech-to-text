@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 vosk-model-small-en-us-0.15.zip
+whisper/
+speechtotest.txt
 .env
 .Python
 build/

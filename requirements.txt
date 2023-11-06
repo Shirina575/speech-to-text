@@ -8,3 +8,5 @@ boto3==1.28.64
 openai-whisper==20230918
 numpy==1.26.1
 soundfile==0.12.1
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch
